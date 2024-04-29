@@ -1,0 +1,93 @@
+body {
+    background-image: url("https://img.freepik.com/fotos-gratis/grupo-de-onibus-dirigindo-ao-longo-da-estrada-ao-por-do-sol_157027-4307.jpg?w=1060&t=st=1714359368~exp=1714359968~hmac=6cb495cedbee78e9d60de1254a787aa82dd20c9a9e46b07e6f8c4726e3ca6c46");
+    background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento body */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* background-attachment: fixed; */ /* Fixa o background enquanto o restante da página rola */
+    font-family: "Arial";
+  }
+
+  #boxa {
+    width: 600px;
+    height: 700px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    border-radius: 15px;
+    background: rgba(158, 158, 158, 0.8);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+  h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: -10px;
+    background-color: #fcbf49;
+    border-radius: 20px;
+    color:#003049;
+  }
+
+  h2 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 50px;
+    color:#003049;
+  }
+
+  .entradas {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    display: block;
+    text-align:left;
+    border-radius: 10px;
+    width: 500px;
+    height: 60px;
+    font-size: 15px;
+  }
+
+  .entradas:focus {
+    border: solid 3px #eae2b7;
+    outline: none;
+  }
+
+  #cbt{
+    margin-left: 110px;
+    margin-top: -28px;
+    color:#003049;
+    font-size:large;
+  }
+
+  #cb {
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-right: auto;
+    min-width: 30px;
+    min-height: 30px;
+  }
+
+  #botao {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15px;
+    display: block;
+    width: 200px;
+    height: 50px;
+    background-color: #fb5607;
+    text-align: center;
+    border-radius: 20px;
+    box-sizing: border-box;
+    font-size: 20px;
+  }
+
+  #botao:active {
+    background-color: #eae2b7;
+  }
+
+  #lk{
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+    color:rgb(8, 1, 114);
+  }
