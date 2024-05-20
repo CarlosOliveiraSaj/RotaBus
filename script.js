@@ -3,55 +3,55 @@ const db = {
         {
             cidade: "São Paulo",
             quantidade: 15,
-            classe: ["econômica", "executiva", "primeira", "Econômica","Executiva"],
+            classe: ["econômica", "executiva", "primeira", "Econômica","Executiva","Primeira"],
             passagem: ["ida", "volta"]
         },
         {
             cidade: "Rio de Janeiro",
             quantidade: 12,
-            classe: ["econômica", "executiva"],
+            classe: ["econômica", "executiva", "Econômica","Executiva"],
             passagem: ["ida"]
         },
         {
             cidade: "Belo Horizonte",
             quantidade: 5,
-            classe: ["executiva", "primeira"],
+            classe: ["executiva", "primeira", "Primeira","Executiva"],
             passagem: ["ida", "volta"]
         },
         {
             cidade: "Salvador",
             quantidade: 9,
-            classe: ["econômica", "executiva", "primeira"],
+            classe: ["econômica", "executiva", "primeira", "Econômica","Executiva","Primeira"],
             passagem: ["ida", "volta"]
         },
         {
             cidade: "Brasília",
             quantidade: 19,
-            classe: ["primeira"],
+            classe: ["primeira", "Primeira"],
             passagem: ["ida", "volta"]
         },
         {
             cidade: "Curitiba",
             quantidade: 30,
-            classe: ["econômica", "executiva", "primeira"],
+            classe: ["econômica", "executiva", "primeira", "Econômica","Executiva","Primeira"],
             passagem: ["ida", "volta"]
         },
         {
             cidade: "Fortaleza",
             quantidade: 10,
-            classe: ["econômica", "primeira"],
+            classe: ["econômica", "primeira", "Econômica", "Primeira"],
             passagem: ["volta"]
         },
         {
             cidade: "Recife",
             quantidade: 50,
-            classe: ["econômica"],
+            classe: ["econômica","Econômica"],
             passagem: ["volta"]
         },
         {
             cidade: "Porto Alegre",
             quantidade: 9,
-            classe: ["econômica", "executiva", "primeira"],
+            classe: ["econômica", "executiva", "primeira","Econômica","Executiva","Primeira"],
             passagem: null
         },
         {
